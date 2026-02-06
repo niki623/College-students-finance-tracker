@@ -19,8 +19,7 @@ How to run the program:
 Sample output:
 <img width="692" height="701" alt="finance_analysis" src="https://github.com/user-attachments/assets/dbb6a413-887c-400a-9c1a-6aa8ed11b614" />
 
-* A full 15-page technical documentation describing the design, implementation, and testing of this project is included in the /docs/ folder:
-docs/Finance_Tracker_Documentation.docx
+* A full 15-page technical documentation describing the design, implementation, and testing of this project is included in this repo: tracker_documentation.pdf
 
 Contributors: 
 Vivienne Nicole Yap, John Karlo Alamillo
